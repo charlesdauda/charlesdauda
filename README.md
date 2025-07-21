@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charles Dauda</h1>
-<h3 align="center">💻 Aspiring Software Developer, I'm passionate about technology and always eager to learn something new.</h3>
+<h3 align="center">💻 Aspiring Software Developer In Ghana, I'm passionate about technology and always eager to learn something new.</h3>
 
 - 🌱 I’m currently learning **MERN stack**
 
