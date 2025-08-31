@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charles Alhassan Dauda</h1>
-<h3 align="center">💻 Aspiring Software Engineer, I'm passionate about technology and always eager to learn something new.</h3>
+<h3 align="center">💻An Aspiring Software Engineer, I'm passionate about technology and always eager to learn something new <h3/>
+
 
 - 🌱 I’m currently learning **the MERN stack**
 
