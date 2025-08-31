@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Charles Alhassan Dauda</h1>
-<h3 align="center">💻 Aspiring Software Engineer from Ghana. </h3>
-  <h4 align="center">I'm passionate about technology and always eager to learn something new.</h4> 
+<h3 align="center">💻 Aspiring Software Engineer, I'm passionate about technology and always eager to learn something new.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charlesdauda" alt="charlesdauda" /></a> </p>
+- 🌱 I’m currently learning **the MERN stack**
 
-- 🌱 I’m currently learning **MERN stack**
-
-- 💞️ I’m looking forward to collaborate on more **projects to improve upon my TECH journey**
+- 💞️ I’m looking to collaborate on more **projects now to improve upon my TECH journey**
 
 - 📫 How to reach me **charlesdauda676@gmail.com**
 
