@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning **the MERN stack**
 
 - 💞️ I’m looking to collaborate on more **projects now to improve upon my TECH journey**
+  
+- 💭 Ask me about **Data Structures and Algorithms**
 
 - 📫 How to reach me **charlesdauda676@gmail.com**
 
