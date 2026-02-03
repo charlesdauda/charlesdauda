@@ -1,5 +1,5 @@
 <h1 align= "center">Hi 👋, I'm Charles Alhassan Dauda</h1>
-<h3 align= "center">💻 Aspiring Software Developer.</h3>  
+<h3 align= "center">💻 Aspiring Software Engineer.</h3>  
 <h4 align = "center">  I'm passionate about technology and always eager to learn something new.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlesdauda&label=Profile%20views&color=0e75b6&style=flat" alt="charlesdauda" /> </p>
