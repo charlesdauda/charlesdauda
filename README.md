@@ -1,29 +1,102 @@
-<h1 align="center">Hi 👋, I'm Charles Alhassan Dauda</h1>
-<h3 align="center">💻 Aspiring Software Engineer</h3>
-<h4 align = "center"> I'm passionate about technology and always eager to learn something new.</h4>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlesdauda&label=Profile%20views&color=0e75b6&style=flat" alt="charlesdauda" /> </p>
+<h1 align="left">👋 Hello, I am Charles Alhassan Dauda</h1>
+<p align="left">💻 Aspiring Software Engineer</p>
+<p align = "left"> I'm passionate about technology and always eager to learn something new.</p>
 
-- 🌱 I’m currently learning **the MERN stack**
+<hr>
 
-- 💞️ I’m looking to collaborate on more **projects now to improve upon my TECH journey**
-
-- 📫 How to reach me **charlesdauda676@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ charles-alhassan-dauda-173466221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ charles-alhassan-dauda-173466221" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_davis.jnr?igsh=mxdiowkxbmm5emz2yw%3d%3d&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_davis.jnr?igsh=mxdiowkxbmm5emz2yw%3d%3d&utm_source=qr" height="30" width="40" /></a>
+ <strong>Junior MERN stack developer</strong> 🏆
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+<hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesdauda&show_icons=true&locale=en&layout=compact" alt="charlesdauda" /></p>
+<p>
+I’m a MERN stack developer passionate about building scalable, high-performance web applications.
+Using MongoDB, Express, React, and Node.js, I create efficient end-to-end solutions from concept to deployment.
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charlesdauda&show_icons=true&locale=en" alt="charlesdauda" /></p>
+<hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charlesdauda&" alt="charlesdauda" /></p>
+<h2>🛠️ Technical Expertise</h2>
+
+<h3>Frontend & UI/UX</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,figma" />
+</p>
+
+<h3>Backend & Databases</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,nodejs,express,mongodb" />
+</p>
+
+<h3>DevOps & Tools</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" />
+</p>
+
+<h3>Languages</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=php,python,cpp,visualstudio" />
+</p>
+
+<hr>
+
+<h2>📫 Let's Connect</h2>
+
+<p>
+<a href="www.linkedin.com/in/charles-alhassan-dauda-173466221">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/mrr.ato_?igsh=MXdiOWkxbmM5emZ2Yw%3D%3D&utm_source=qr">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/charlesdauda15?s=21">
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter"/>
+</a>
+
+<a href="mailto:charlesdauda676@gmail.com.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.tiktok.com/@codewithcharles?_r=1&_t=ZS-95waTk3XO8T">  
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok"/>
+</a>
+
+</p>
+
+<hr>
+
+<h2>📊 GitHub Analytics</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+<hr>
+
+<h2>💡 Fun Facts</h2>
+
+<ul>
+<li>🎮 I enjoy playing games like Call of Duty and Beach Buggy Racing</li>
+<li>🎺 I'm a trumpeter and passionate about music</li>
+<li>🎵 I love listening to and exploring different kinds of music</li>
+<li>😂 Meme lover and content creator</li>
+<li>💻 I build smooth, responsive websites</li>
+<li>🔥 Always bringing creativity and good vibes into everything I do</li>
+<li>✨ Always excited to collaborate on innovative projects</li>
+</ul>
+
+<p align="center">
+<strong>🚀 Turning ideas into scalable digital experiences</strong>
+</p>
 
 
 
