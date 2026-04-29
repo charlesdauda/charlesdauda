@@ -1,9 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlesdauda&label=Profile%20views&color=0e75b6&style=flat" alt="charlesdauda" /> </p>
 <h1 align="left">👋 Hello, I am Charles Alhassan Dauda</h1>
-<p align="left">💻 Aspiring Software Engineer</p>
-<p align = "left"> I'm passionate about technology and always eager to learn something new.</p>
-
-<hr>
 
 <p align="left">
  <strong>Junior MERN stack developer</strong> 🏆
@@ -71,14 +67,11 @@ Using MongoDB, Express, React, and Node.js, I create efficient end-to-end soluti
 
 <h2>📊 GitHub Analytics</h2>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesdauda&show_icons=true&locale=en&layout=compact" alt="charlesdauda" /></p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charlesdauda&show_icons=true&locale=en" alt="charlesdauda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charlesdauda&" alt="charlesdauda" /></p>
 
 <hr>
 
