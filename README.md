@@ -2,7 +2,7 @@
 <h1 align="left">👋 Hello, I am Charles Alhassan Dauda</h1>
 
 <p align="left">
- <strong>Junior MERN stack developer</strong> 🏆
+ <strong>Junior MERN stack developer [Learner]</strong> 🏆
 </p>
 
 <hr>
