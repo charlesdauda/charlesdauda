@@ -8,7 +8,7 @@
 <hr>
 
 <p>
-I’m a MERN stack developer passionate about building scalable, high-performance web applications.
+I’m a MERN stack developer (learning phase) passionate about building scalable, high-performance web applications.
 Using MongoDB, Express, React, and Node.js, I create efficient end-to-end solutions from concept to deployment.
 </p>
 
