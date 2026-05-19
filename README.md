@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlesdauda&label=Profile%20views&color=0e75b6&style=flat" alt="charlesdauda" /> </p>
 <h1 align="left">👋 Hello, I am Charles Alhassan Dauda</h1>
 <p align="left">
- <strong>Junior MERN stack developer [Learner]</strong> 🏆
+ <strong>Junior MERN stack developer [Learner]</strong>🏆
 </p>
 <hr>
 <p>
@@ -70,9 +70,3 @@ Using MongoDB, Express, React, and Node.js, I create efficient end-to-end soluti
 <p align="center">
 <strong>🚀 Turning ideas into scalable digital experiences</strong>
 </p>
-
-
-
-
-
-
