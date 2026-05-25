@@ -46,6 +46,7 @@ Using MongoDB, Express, React, and Node.js, I create efficient end-to-end soluti
 </a>
 </p>
 <hr>
+
 <h2>📊 GitHub Analytics</h2>
 <p align="left">
   <a href="https://github.com/charlesdauda">
