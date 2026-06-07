@@ -65,7 +65,6 @@ Using MongoDB, Express, React, and Node.js, I create efficient end-to-end soluti
 <li>🎵 I love listening to and exploring different kinds of music</li>
 <li>😂 Meme lover and content creator</li>
 <li>💻 I build smooth, responsive websites</li>
-<li>🔥 Always bringing creativity and good vibes into everything I do</li>
 <li>✨ Always excited to collaborate on innovative projects</li>
 </ul>
 <p align="center">
