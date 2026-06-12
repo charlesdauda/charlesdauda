@@ -50,8 +50,8 @@ Using MongoDB, Express, React, and Node.js, I create efficient end-to-end soluti
 <h2>📊 GitHub Analytics</h2>
 <p align="left">
   <a href="https://github.com/charlesdauda">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlesdauda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github" alt="charlesdauda github stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesdauda&layout=donut&theme=tokyonight&hide_border=false&langs_count=8" alt="top languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlesdauda&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&show=prs_merged,prs_merged_percentage" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesdauda&layout=compact&theme=github_dark_dimmed&langs_count=10" />
   </a>
 </p>
 <p align="left">
