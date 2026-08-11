@@ -65,6 +65,7 @@ I create efficient end-to-end solutions from concept to deployment.
 <li>🎵 I love listening to and exploring different kinds of music</li>
 <li>😂 Meme lover and content creator</li>
 <li>💻 I build smooth, responsive websites</li>
+ <li>💻 Ask me about Object Oriented Programming</li>
 <li>✨ Always excited to collaborate on innovative projects</li>
 </ul>
 <p align="center">
