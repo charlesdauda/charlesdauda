@@ -5,7 +5,7 @@
 </p>
 <hr>
 <p>
-I'm a junior fullstack developer (learning phase) and I'm passionate about building scalable, high-performance web applications.
+I'm currently learning the full stack development and I'm passionate about building scalable, high-performance web applications.
 I create efficient end-to-end solutions from concept to deployment.
 </p>
 <hr>
