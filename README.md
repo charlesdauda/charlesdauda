@@ -62,7 +62,6 @@ I create efficient end-to-end solutions from concept to deployment.
 <ul>
 <li>🎮 I enjoy playing games like Call of Duty and Beach Buggy Racing</li>
 <li>🎺 I'm a trumpeter and passionate about music</li>
-<li>🎵 I love listening to and exploring different kinds of music</li>
 <li>😂 Meme lover and content creator</li>
 <li>💻 I build smooth, responsive websites</li>
  <li>💻 Ask me about Object Oriented Programming</li>
