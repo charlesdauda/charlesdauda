@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlesdauda&label=Profile%20views&color=0e75b6&style=flat" alt="charlesdauda" /> </p>
 <h1 align="left">👋 Hello, I am Charles Alhassan Dauda</h1>
-<p align="left">
- <strong>Junior fullstack developer </strong>🏆
-</p>
+<h3 align="left">
+ <strong>Junior Full-Stack Developer </strong>🏆
+</h3>
 <hr>
 <p>
 I'm a Junior Full-Stack Developer passionate about building scalable, high-performance web applications. I develop efficient end-to-end solutions, transforming ideas and requirements into functional, user-focused applications from concept to deployment.
