@@ -1,18 +1,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlesdauda&label=Profile%20views&color=0e75b6&style=flat" alt="charlesdauda" /> </p>
 <h1 align="left">👋 Hello, I am Charles Alhassan Dauda</h1>
 <p align="left">
- <strong>Junior fullstack developer [Learner]</strong>🏆
+ <strong>Junior fullstack developer </strong>🏆
 </p>
 <hr>
 <p>
-I'm currently learning the full stack development and I'm passionate about building scalable, high-performance web applications.
-I create efficient end-to-end solutions from concept to deployment.
+I'm a Junior Full-Stack Developer passionate about building scalable, high-performance web applications. I develop efficient end-to-end solutions, transforming ideas and requirements into functional, user-focused applications from concept to deployment.
+
 </p>
 <hr>
 <h2>🛠️ Technical Expertise</h2>
 <h3>Frontend & UI/UX</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,figma" />
 </p>
 <h3>Backend & Databases</h3>
 <p>
@@ -24,7 +24,7 @@ I create efficient end-to-end solutions from concept to deployment.
 </p>
 <h3>Languages</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=php,python,cpp,visualstudio" />
+<img src="https://skillicons.dev/icons?i=php,python,cpp,js,ts" />
 </p>
 <hr>
 <h2>📫 Let's Connect</h2>
