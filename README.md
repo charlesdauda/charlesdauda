@@ -20,7 +20,7 @@ I'm a Junior Full-Stack Developer passionate about building scalable, high-perfo
 </p>
 <h3>DevOps & Tools</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman" />
 </p>
 <h3>Languages</h3>
 <p>
